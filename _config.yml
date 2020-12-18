@@ -12,7 +12,7 @@ email: kumarrishav14@outlook.com
 # website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: kumarrishav14
@@ -122,9 +122,9 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          During my college, i was deeply involved in various projects, mainly of research back ground. My academic project was a research based project on MIMO Scheduling. 
+          During my college, i was deeply involved in various projects, mainly of research back ground. My academic project was a research based project on MIMO Scheduling, titled "Scheduling of users in MIMO communication using PSO"
 
-          <b>MIMO</b> (Multiple Input Multiple Output) is the key principle for 5G communication and scheduling of users in MIMO is the biggest challenge in base station due to the high computational power required.  
+          <b>MIMO</b> (Multiple Input Multiple Output) is the key principle for 5G communication and scheduling of users in MIMO is the biggest challenge in base station due to the high computational power required. In this project, we used PSO technique to schedule the users with less computational power. 
 
   - title: A Little More About Me
     layout: text
