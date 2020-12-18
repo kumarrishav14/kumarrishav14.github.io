@@ -9,7 +9,7 @@ version: 2
 name: Rishav Kumar
 title: Engineer
 email: kumarrishav14@outlook.com
-website: www.github.com/sproogen/resume-theme
+# website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -21,7 +21,7 @@ github_username:  kumarrishav14
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
+instagram_username: kumarrishav14
 linkedin_username: kumarrishav14
 # xing_username: jekyll
 # pinterest_username: jekyll
@@ -30,10 +30,10 @@ youtube_username: globalmtb
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+# additional_links:
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,9 +48,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Rishav and was working as a Quality Engineer. Currently i am devleoping my skills in VLSI specially in the Design Verification field. Apart from having keen interest in electronic and digital system, I have also interest in coding and making apps.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Design Verification</mark>, <mark>SV</mark> and <mark>UVM</mark>
 
 content:
   - title: Projects # Title for the section
