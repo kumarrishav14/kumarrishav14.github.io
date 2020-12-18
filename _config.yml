@@ -35,7 +35,7 @@ projects:
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-  # linkedin: your_username
+  linkedin: kumarrishav14
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
@@ -47,7 +47,7 @@ projects:
   # youtube: your_username
 
 topics:
-  - name: CSS
+  - name: Design Verification
     web_url: https://github.com/topics/css
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
