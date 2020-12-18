@@ -41,8 +41,8 @@ youtube_username: globalmtb
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-google_analytics: "UA-CF9ZDS6EMM"
+gtag: "UA-185652507-1"
+# google_analytics: "UA-185652507-1"
 
 # About Section
 # about_title: About Me
@@ -57,9 +57,9 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
+        title: ALU UVM
+        link: https://kumarrishav14.github.io/ALU_UVM/
+        link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
             icon: fab fa-github
