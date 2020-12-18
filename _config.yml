@@ -41,7 +41,7 @@ youtube_username: globalmtb
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
-gtag: "UA-185652507-1"
+# gtag: "UA-185652507-1"
 # google_analytics: "UA-185652507-1"
 
 # About Section
@@ -68,8 +68,8 @@ content:
           This is one of my UVM Projects
         description: | # this will include new lines to allow paragraphs
           I did this project as part of my training in <mark>Design Verification</mark>. The testbecnh developed is for 8-bit ALU which is easily configurable. I learned a lot about the different UVM components through this project specially about <b>TLM Ports</b> and <b>UVM Reporting</b>
-        - layout: top-middle
 
+      - layout: top-middle
         title: APB SV
         link: https://kumarrishav14.github.io/ALU_UVM/
         link_text: Project Website
