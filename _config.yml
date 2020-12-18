@@ -65,9 +65,9 @@ content:
             icon: fab fa-github
             url: github.com/kumarrishav14/ALU_UVM
         quote: >
-          This is one of my UVM Projects
+          This is one of my first UVM Projects
         description: | # this will include new lines to allow paragraphs
-          I did this project as part of my training in <mark>Design Verification</mark>. The testbecnh developed is for 8-bit ALU which is easily configurable. I learned a lot about the different UVM components through this project specially about <b>TLM Ports</b> and <b>UVM Reporting</b>
+          I did this project as part of my training in <mark>Design Verification</mark>. The testbecnh developed is for 8-bit ALU which is easily configurable. I learned a lot about the different UVM components through this project specially about <b>TLM Ports</b> and <b>UVM Reporting</b><hr>
 
       - layout: top-middle
         title: APB SV
@@ -78,9 +78,11 @@ content:
             icon: fab fa-github
             url: github.com/kumarrishav14/ALU_UVM
         quote: >
-          This is one of my UVM Projects
+          This is the most challenging project done by me.
         description: | # this will include new lines to allow paragraphs
-          I did this project as part of my training in <mark>Design Verification</mark>. The testbecnh developed is for 8-bit ALU which is easily configurable. I learned a lot about the different UVM components through this project specially about <b>TLM Ports</b> and <b>UVM Reporting</b>
+          This project was also done by me as part of my training in <mark>Design Verification</mark>. This is a complete SV testbench (without using UVM) for a single APB slave cofiguration (slave is taken as memory). Through this project i learnt a lot about the AMBA specifications specially <b>APB</b> protocols. Apart from protocol, it gave me a hand on experience to design the complete test bench architecture from scratch along with the test plan. 
+
+          Key concepts learned: <mark>APB protocol</mark> <mark>Debugging</mark> <mark>TB Architecutre Design</mark> 
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -95,6 +97,7 @@ content:
           Midea Group is a leading technology company specializing in Robotics, Industrial Automation, HVAC Systems, Consumer Appliances and Smart Logistics and Midea India is a new venture of the group in India.
         description: | # this will include new lines to allow paragraphs
           I got into this company as a fresh graduate and got 6 months training in Quality Department of Midea China factory. This training gave me lot of technical experience but at the same time it teached me to handle the cross culture difference. After successfull completion of my training I was involved in BIS and ISO certification of India plant, during which I made/translated 50-60 ISO documents and shop floor documents.
+
           Skills gained: <mark>Quality Principles</mark> <mark>Six Sigma</mark> <mark>Presentation</mark> <mark>Documentation</mark>
 
       - layout: left
@@ -107,6 +110,7 @@ content:
           ITR is a facility operated and maintained by DRDO, GoI. ITR provides launch and test facilties for rockets, missiles and air-borne weapon system.
         description: | # this will include new lines to allow paragraphs
           I worked in the telecommand division of ITR, which is mainly focused on sending commands to the test device. My team was assigned the project to develope a indigeneous <b>AGC</b> (Automatic Gain controller) for 10W transmitter. This project gave me a lot of insights about the working of transmitter and the need for AGCs in transmitter. Also, I got hands on experience with high end oscilloscopes, function generator and spectrometers.
+
           Skills gained: <mark>Telecommand Principles</mark> <mark>AGCs</mark> <mark>Testing of ciruits</mark>
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -119,6 +123,7 @@ content:
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           During my college, i was deeply involved in various projects, mainly of research back ground. My academic project was a research based project on MIMO Scheduling. 
+
           <b>MIMO</b> (Multiple Input Multiple Output) is the key principle for 5G communication and scheduling of users in MIMO is the biggest challenge in base station due to the high computational power required.  
 
   - title: A Little More About Me
@@ -127,9 +132,6 @@ content:
       Alongside my interests in electroics and software engineering some of my other interests and hobbies are:
       - Cooking
       - Learning new things
-
-      # Look at this cool image  
-      # ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
