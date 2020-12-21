@@ -86,7 +86,7 @@ content:
           Key concepts learned: <mark>APB protocol</mark> <mark>Debugging</mark> <mark>TB Architecutre Design</mark>
       
       - layout: top-middle
-        description: | # this will include new lines to allow paragraphs
+        quote: >
           Please visit my github for more projects.
 
   - title: Experience # Title for the section
