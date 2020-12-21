@@ -48,9 +48,10 @@ gtag: "UA-185652507-1"
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Rishav and was working as a Quality Engineer. Currently i am devleoping my skills in VLSI specially in the Design Verification field. Apart from having keen interest in electronic and digital system, I have also interest in coding and making apps.
+  Hi, my name is Rishav and I am an Electronics Engineer.
+  I have worked as Quality Engineer in Midea India Pvt.Ltd. Currently, I am developing my skills in VLSI, specially in the Design Verification field. Apart from that, I also keep interest in electronics, digital system, and coding as well. I have developed some apps like 555 timer.
 
-  I am most skilled in: <mark>Design Verification</mark>, <mark>SV</mark> and <mark>UVM</mark>
+  My Skills: <mark>Design Verification</mark>, <mark>SV</mark> and <mark>UVM</mark> as well.
 
 content:
   - title: Projects # Title for the section
@@ -65,12 +66,12 @@ content:
             icon: fab fa-github
             url: github.com/kumarrishav14/ALU_UVM
         quote: >
-          This is one of my first UVM Projects
+          This was one of my first UVM Project.
         description: | # this will include new lines to allow paragraphs
-          I did this project as part of my training in <mark>Design Verification</mark>. The testbecnh developed is for 8-bit ALU which is easily configurable. I learned a lot about the different UVM components through this project specially about <b>TLM Ports</b> and <b>UVM Reporting</b><hr>
+          I did this project as a part of my training in <mark>Design Verification</mark>. Have developed the testbench for 8-bit ALU which is easily configurable. I explored different UVM components while doing this project specially about <b>TLM Ports</b> and <b>UVM Reporting</b><hr>
 
       - layout: top-middle
-        title: APB SV
+        title: APB
         link: https://kumarrishav14.github.io/AMBA_APB/
         link_text: Project Website
         additional_links:
@@ -78,9 +79,9 @@ content:
             icon: fab fa-github
             url: github.com/kumarrishav14/AMBA_APB
         quote: >
-          This is the most challenging project done by me.
+          This was the most challenging project which I had done during this training.
         description: | # this will include new lines to allow paragraphs
-          This project was also done by me as part of my training in <mark>Design Verification</mark>. This is a complete SV testbench (without using UVM) for a single APB slave cofiguration (slave is taken as memory). Through this project I learnt a lot about the AMBA specifications specially <b>APB</b> protocols. Apart from protocol, it gave me a hand on experience to design the complete test bench architecture from scratch along with the test plan. 
+          This project was also done by me as part of my training in <mark>Design Verification</mark>. This is a complete testbench with and without UVM for a single APB slave cofiguration (slave is taken as memory). Through this project, I learnt a lot about the AMBA specifications specially <b>APB</b> protocols. Apart from protocol, it gave me a hands-on experience to design the complete testbench architecture from scratch along with the test plan. Also, I got to know the advantage of using UVM to design Test bench over raw SV test bench.
 
           Key concepts learned: <mark>APB protocol</mark> <mark>Debugging</mark> <mark>TB Architecutre Design</mark> 
 
@@ -96,7 +97,7 @@ content:
         quote: >
           Midea Group is a leading technology company specializing in Robotics, Industrial Automation, HVAC Systems, Consumer Appliances and Smart Logistics and Midea India is a new venture of the group in India.
         description: | # this will include new lines to allow paragraphs
-          My journy began as a fresh graduate and got 6 months training in Quality Department of Midea China factory. This training gave me lot of technical experience but at the same time it teached me to deal the cross culture difference. After successfull completion of my training I was involved in BIS and ISO certification of India plant, during which I made/translated 50-60 ISO documents and shop floor documents.
+          My journy began as a fresh graduate and got 6 months training in Quality Department of Midea China factory. This training gave me a lot of technical experience and at the same time it helped me to learn to deal the cross-culture difference. After successfull completion of my training I was involved in BIS and ISO certification of India plant, during which I made/translated 50-60 ISO documents and shop floor documents.
 
           Skills gained: <mark>Quality Principles</mark> <mark>Six Sigma</mark> <mark>Presentation</mark> <mark>Documentation</mark>
 
@@ -107,31 +108,31 @@ content:
         sub_title: Summer Trainee
         caption: Mar 2018 - Jun 2018
         quote: >
-          ITR is a facility operated and maintained by DRDO, GoI. ITR provides launch and test facilties for rockets, missiles and air-borne weapon system.
+          ITR is a facility operated and maintained by DRDO, GoI. ITR provides launch and test facilties for rockets, missiles, and air-borne weapon system.
         description: | # this will include new lines to allow paragraphs
-          I worked in the telecommand division of ITR, which is mainly focused on sending commands to the test device. My team was assigned the project to develope a indigeneous <b>AGC</b> (Automatic Gain controller) for 10W transmitter. This project gave me a lot of insights about the working of transmitter and the need for AGCs in transmitter. Also, I got hands on experience with high end oscilloscopes, function generator and spectrometers.
+          I worked in the telecommand division of ITR, which is mainly focused on sending commands to the test device. My team was assigned for a project which aimed to develop an indigeneous <b>AGC</b> (Automatic Gain controller) for a 10W transmitter. This project gave me a lot of insights about the working of transmitter and the need for AGCs in transmitter. Also, I got hands on experience with high end oscilloscopes, function generator and spectrometers.
 
-          Skills gained: <mark>Telecommand Principles</mark> <mark>AGCs</mark> <mark>Testing of ciruits</mark>
+          Skills gained: <mark>Telecommand Principles</mark> <mark>AGCs</mark> <mark>Testing of Ciruits</mark>
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Kalinga Institute of Industrial Technology
         caption: 2015 - 2019
-        sub_title: B. Tech Electronic and Telecommunications
+        sub_title: B. Tech Electronics and Telecommunications
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          During my college, I was deeply involved in various projects, mainly of research back ground. My academic project was a research based project on MIMO Scheduling, titled "Scheduling of users in MIMO communication using PSO"
+          During my college, I was deeply involved in various projects, mainly of research background. My academic project was a research-based project on MIMO Scheduling, titled "Scheduling of users in MIMO communication using PSO"
 
           <b>MIMO</b> (Multiple Input Multiple Output) is the key principle for 5G communication and scheduling of users in MIMO is the biggest challenge in base station due to the high computational power required. In this project, we used PSO technique to schedule the users with less computational power. 
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in electroics and software engineering some of my other interests and hobbies are:
-      - Cooking
-      - Learning new things
+      Alongside my interests in electroics and software fields I also like to cook and exploring and learning new things.
+      I used to refresh my mind through cooking and learning new things is my favourite time pass.
+      
 
 # Footer
 footer_show_references: true
