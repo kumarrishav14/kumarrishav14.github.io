@@ -72,7 +72,7 @@ content:
       - layout: top-middle
         title: APB
         link: https://kumarrishav14.github.io/AMBA_APB/
-        link_text: Project Website
+        link_text: Link to Project Website
         additional_links:
           - title:  kumarrishav14/AMBA_APB
             icon: fab fa-github
