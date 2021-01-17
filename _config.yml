@@ -57,6 +57,19 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
+        title: AMBA AXI
+        link: https://kumarrishav14.github.io/AXI/
+        link_text: Link to Project Website
+        additional_links:
+          - title:  kumarrishav14/amba-axi
+            icon: fab fa-github
+            url: github.com/kumarrishav14/AXI
+        quote: >
+          VIP for AXI Protocol
+        description: | # this will include new lines to allow paragraphs
+          Developed a VIP for AXI 3 protocol from scratch, i.e, starting from Testbench arctitecture, Test plan, Feature Extraction. Highly Configurable VIP with support of variable address and data width. Presently, the test suite includes basic burst transactions.
+
+      - layout: top-middle
         title: ALU UVM
         link: https://kumarrishav14.github.io/ALU_UVM/
         link_text: Link to Project Website
