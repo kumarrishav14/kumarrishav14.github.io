@@ -112,11 +112,11 @@ content:
         sub_title: SOC Verification Intern
         caption: Mar 2021 - Jun 2021
         quote: >
-          Sion Semiconductor
+          Sion Semiconductor has extended its services to complete Product engineering space from concept to product realisation and is the OEM for many Tier-1 companies.
         description: | # this will include new lines to allow paragraphs
-          As an intern in Sion Semiconductor, I was involved in a project to make VIP for ARM Watchdog timer.
+          As an intern in Sion Semiconductor, I was involved in a project to make VIP for ARM Watchdog timer. This project gave me a good experience of implementing a test bench with RAL integration.
 
-          Skills gained: <mark>UVM RAL</mark>
+          Skills gained: <mark>UVM RAL</mark> <mark>Coverage</mark>
 
       - layout: left
         title: Midea India Pvt. Ltd
