@@ -16,7 +16,7 @@ darkmode: false
 
 # Social links
 twitter_username: kumarrishav14
-github_username:  kumarrishav14
+github_username: kumarrishav14
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -61,7 +61,7 @@ content:
         link: https://kumarrishav14.github.io/AXI/
         link_text: Link to Project Website
         additional_links:
-          - title:  kumarrishav14/amba-axi
+          - title: kumarrishav14/amba-axi
             icon: fab fa-github
             url: github.com/kumarrishav14/AXI
         quote: >
@@ -76,7 +76,7 @@ content:
         link: https://kumarrishav14.github.io/AMBA_APB/
         link_text: Link to Project Website
         additional_links:
-          - title:  kumarrishav14/AMBA_APB
+          - title: kumarrishav14/AMBA_APB
             icon: fab fa-github
             url: github.com/kumarrishav14/AMBA_APB
         quote: >
@@ -91,14 +91,14 @@ content:
         link: https://kumarrishav14.github.io/ALU_UVM/
         link_text: Link to Project Website
         additional_links:
-          - title:  kumarrishav14/alu-uvm
+          - title: kumarrishav14/alu-uvm
             icon: fab fa-github
             url: github.com/kumarrishav14/ALU_UVM
         quote: >
           This was one of my first UVM Project.
         description: | # this will include new lines to allow paragraphs
           ALU UVM is a part of my training in <b>Design Verification</b>. I developed the testbench for 8-bit ALU, which is easily configurable. I explored different UVM components while doing this project specially about <b>TLM Ports</b> and <b>UVM Reporting</b>
-      
+
       - layout: top-middle
         quote: >
           Please visit my <a href="https://github.com/kumarrishav14">GitHub</a> for more projects.
@@ -106,6 +106,18 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        title: Sion Semiconductors Pvt Ltd
+        link:
+        sub_title: SOC Verification Intern
+        caption: Mar 2021 - Jun 2021
+        quote: >
+          Sion Semiconductor
+        description: | # this will include new lines to allow paragraphs
+          As an intern in Sion Semiconductor, I was involved in a project to make VIP for ARM Watchdog timer.
+
+          Skills gained: <mark>UVM RAL</mark>
+
       - layout: left
         title: Midea India Pvt. Ltd
         link: https://www.midea-group.com/
@@ -144,13 +156,12 @@ content:
         description: | # this will include new lines to allow paragraphs
           During my college, I was deeply involved in various projects, mainly of research background. My academic project was a research-based project on MIMO Scheduling, titled "Scheduling of users in MIMO communication using PSO"
 
-          <b>MIMO</b> (Multiple Input Multiple Output) is the key principle for 5G communication and scheduling of users in MIMO is the biggest challenge in base station due to the high computational power required. In this project, we used PSO technique to schedule the users with less computational power. 
+          <b>MIMO</b> (Multiple Input Multiple Output) is the key principle for 5G communication and scheduling of users in MIMO is the biggest challenge in base station due to the high computational power required. In this project, we used PSO technique to schedule the users with less computational power.
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       To have a focused mind, we need a balance in all domains of our life. Besides my career in electronics and software fields, I also give priority to my hobbies and interests. I like to explore new places that are underestimated by tourists. In my free time, I try my hand at cooking and doodling.
-      
 
 # Footer
 footer_show_references: true
@@ -164,4 +175,4 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
