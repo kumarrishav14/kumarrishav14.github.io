@@ -107,14 +107,14 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: SignOff Semiconductors Pvt Ltd
+        title: SignOff Semiconductors
         link: https://signoffsemiconductors.com/
-        sub_title: Digital Design and Verification Engineer
+        sub_title: Digital Verification Engineer
         caption: Jul 2021 - Ongoing
         quote: >
           Our vision is to be a leading VLSI design service provider. Quality, Customer success & TTM are our key goals
         description: | # this will include new lines to allow paragraphs
-          I am currently working on various internal R&D projects, with focus on RISC V architecture. As a Digital Design and Verification Engineer, my main task is to design Test Bench architecture, write test plans for both IP level test bench and SOC level test bench. I am also responsible for the integration of different components in a UVM based architecture and analysing the test result. 
+          I am currently working on various internal R&D projects, with focus on RISC V architecture. As a Digital Verification Engineer, my main task is to design Test Bench architecture, write test plans for both IP level test bench and SOC level test bench. I am also responsible for the integration of different components in a UVM based architecture and analysing the test result. 
 
           Skills gained: <mark>SOC Architecture</mark> <mark>SOC Verification</mark> <mark>SPI IP Verification</mark> <mark><RISC V</mark> <mark>I2C IP Verification</mark> <mark>GPIO IP Verification</mark>
 
