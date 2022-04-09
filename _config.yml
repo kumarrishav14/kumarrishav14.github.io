@@ -53,56 +53,6 @@ about_content: | # this will include new lines to allow paragraphs
   My Skills: <mark>Design Verification</mark>, <mark>SV</mark> and <mark>UVM</mark> as well.
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: AMBA AXI
-        link: https://kumarrishav14.github.io/AXI/
-        link_text: Link to Project Website
-        additional_links:
-          - title: kumarrishav14/amba-axi
-            icon: fab fa-github
-            url: github.com/kumarrishav14/AXI
-        quote: >
-          VIP for AXI Protocol
-        description: | # this will include new lines to allow paragraphs
-          Developed a VIP for AXI 3 protocol from scratch, i.e, starting from Testbench arctitecture, Test plan, Feature Extraction. Highly Configurable VIP with support of variable address and data width. Presently, the test suite includes basic burst transactions.
-
-          Key Concepts learned: <mark>AXI Protocol</mark> <mark>Burst transfers</mark> <mark>Complex testbench design</mark> <mark>VIP Concept</mark>
-
-      - layout: top-middle
-        title: APB
-        link: https://kumarrishav14.github.io/AMBA_APB/
-        link_text: Link to Project Website
-        additional_links:
-          - title: kumarrishav14/AMBA_APB
-            icon: fab fa-github
-            url: github.com/kumarrishav14/AMBA_APB
-        quote: >
-          This was the most challenging project which I had done during this training.
-        description: | # this will include new lines to allow paragraphs
-          APB, also is the part of my training in <b>Design Verification</b>. This is a complete testbench with and without UVM for a single APB slave cofiguration, where DUT is a single port RAM. Through this project, I learnt a lot about the AMBA specifications, especially <b>APB</b> protocols. Apart from protocol, it gave me a hands-on experience to design the complete testbench architecture from scratch along with the test plan. Also, I got to know the advantage of using UVM to design Test bench over raw SV test bench.
-
-          Key concepts learned: <mark>APB protocol</mark> <mark>Debugging</mark> <mark>TB Architecutre Design</mark>
-
-      - layout: top-middle
-        title: ALU UVM
-        link: https://kumarrishav14.github.io/ALU_UVM/
-        link_text: Link to Project Website
-        additional_links:
-          - title: kumarrishav14/alu-uvm
-            icon: fab fa-github
-            url: github.com/kumarrishav14/ALU_UVM
-        quote: >
-          This was one of my first UVM Project.
-        description: | # this will include new lines to allow paragraphs
-          ALU UVM is a part of my training in <b>Design Verification</b>. I developed the testbench for 8-bit ALU, which is easily configurable. I explored different UVM components while doing this project specially about <b>TLM Ports</b> and <b>UVM Reporting</b>
-
-      - layout: top-middle
-        quote: >
-          Please visit my <a href="https://github.com/kumarrishav14">GitHub</a> for more projects.
-
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -155,6 +105,56 @@ content:
           I worked in the telecommand division of ITR, which focuses on sending commands to the test device. Our assigned project aimed to develop an indigenous AGC (Automatic Gain Controller) for a 10W transmitter. This project gave us many insights about the transmitter's working and the need for AGCs in the transmitter. Also, I got hands-on experience with high-end oscilloscopes, function generators, and spectrometers.
 
           Skills gained: <mark>Telecommand Principles</mark> <mark>AGCs</mark> <mark>Testing of Ciruits</mark>
+
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: AMBA AXI
+        link: https://kumarrishav14.github.io/AXI/
+        link_text: Link to Project Website
+        additional_links:
+          - title: kumarrishav14/amba-axi
+            icon: fab fa-github
+            url: github.com/kumarrishav14/AXI
+        quote: >
+          VIP for AXI Protocol
+        description: | # this will include new lines to allow paragraphs
+          Developed a VIP for AXI 3 protocol from scratch, i.e, starting from Testbench arctitecture, Test plan, Feature Extraction. Highly Configurable VIP with support of variable address and data width. Presently, the test suite includes basic burst transactions.
+
+          Key Concepts learned: <mark>AXI Protocol</mark> <mark>Burst transfers</mark> <mark>Complex testbench design</mark> <mark>VIP Concept</mark>
+
+      - layout: top-middle
+        title: APB
+        link: https://kumarrishav14.github.io/AMBA_APB/
+        link_text: Link to Project Website
+        additional_links:
+          - title: kumarrishav14/AMBA_APB
+            icon: fab fa-github
+            url: github.com/kumarrishav14/AMBA_APB
+        quote: >
+          This was the most challenging project which I had done during this training.
+        description: | # this will include new lines to allow paragraphs
+          APB, also is the part of my training in <b>Design Verification</b>. This is a complete testbench with and without UVM for a single APB slave cofiguration, where DUT is a single port RAM. Through this project, I learnt a lot about the AMBA specifications, especially <b>APB</b> protocols. Apart from protocol, it gave me a hands-on experience to design the complete testbench architecture from scratch along with the test plan. Also, I got to know the advantage of using UVM to design Test bench over raw SV test bench.
+
+          Key concepts learned: <mark>APB protocol</mark> <mark>Debugging</mark> <mark>TB Architecutre Design</mark>
+
+      - layout: top-middle
+        title: ALU UVM
+        link: https://kumarrishav14.github.io/ALU_UVM/
+        link_text: Link to Project Website
+        additional_links:
+          - title: kumarrishav14/alu-uvm
+            icon: fab fa-github
+            url: github.com/kumarrishav14/ALU_UVM
+        quote: >
+          This was one of my first UVM Project.
+        description: | # this will include new lines to allow paragraphs
+          ALU UVM is a part of my training in <b>Design Verification</b>. I developed the testbench for 8-bit ALU, which is easily configurable. I explored different UVM components while doing this project specially about <b>TLM Ports</b> and <b>UVM Reporting</b>
+
+      - layout: top-middle
+        quote: >
+          Please visit my <a href="https://github.com/kumarrishav14">GitHub</a> for more projects.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
