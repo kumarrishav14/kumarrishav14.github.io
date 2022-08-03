@@ -48,19 +48,31 @@ gtag: "UA-185652507-1"
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, I'm a Digital design and verification engineer at Signoff Semiconductors, having <strong>1+ years of experience </strong> in RTL design verification and 2+ years of professional experience. I have expertise in test bench design from scratch, assertions and working in multicultural environment.
+  Hello, I'm a Digital design and verification engineer at Qualcomm, having <strong>1+ years of experience </strong> in RTL design verification and 2+ years of professional experience. I have expertise in test bench design from scratch, assertions and working in multicultural environment.
 
-  My Skills: <mark>Design Verification</mark>, <mark>SV</mark>, <mark>UVM</mark>, <mark>GLS</mark>, <mark>Pyhton</mark>
+  My Skills: <mark>Design Verification</mark>, <mark>SV</mark>, <mark>UVM</mark>, <mark>GLS</mark>, <mark>Pyhton</mark>, <mark>C</mark>, <mark>TCL</mark>
 
 content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Qualcomm
+        link: https://signoffsemiconductors.com/
+        sub_title: AMS Verification Engineer
+        caption: Jun 2022 - Ongoing
+        quote: >
+          Best place to work on 5G
+        description: | # this will include new lines to allow paragraphs
+          I am cuurenly working on the verification of different AMS/HSIO blocks within the SoC. Also responsible for test pattern generation for the post silicon activities. 
+
+          Skills gained: <mark>Perl</mark> <mark>TCL</mark> <mark>Verdi</mark>
+
+      - layout: left
         title: SignOff Semiconductors
         link: https://signoffsemiconductors.com/
         sub_title: Digital Verification Engineer
-        caption: Jul 2021 - Ongoing
+        caption: Jul 2021 - Jun 2022
         quote: >
           Our vision is to be a leading VLSI design service provider. Quality, Customer success & TTM are our key goals
         description: | # this will include new lines to allow paragraphs
